@@ -21,6 +21,9 @@ Optimum temperature is required at various places at our homes also, like refrig
 * Twillo Cloud
 * Bolt Cloud
 
+## Hardware Connections
+![Hardware Connections](https://cdn.fs.teachablecdn.com/resize=width:400/Ig2OOt38Tn28UQro2CT0)
+
 ## Set up to send temperature alert
 Run following commands in python terminal:
 
