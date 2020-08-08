@@ -28,7 +28,9 @@ Optimum temperature is required at various places at our homes also, like refrig
 Run following commands in python terminal:
 
 > sudo apt-get -y update
+
 > sudo apt install python3-pip
+
 > sudo pip3 install boltiot
 
 ### For sending alert via Email
